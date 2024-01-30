@@ -1,0 +1,14 @@
+2. a. The ports used by the java process are 8080 and 8005 according to the output of the command lsof -i -P -n | grep <javaPID>
+6. a. 51566
+12345
+51567
+8080
+8005
+
+c. 9090
+52241
+8080
+8005
+
+7. a. OutOfMemoryError
+
